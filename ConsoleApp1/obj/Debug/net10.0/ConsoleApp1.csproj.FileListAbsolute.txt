@@ -12,3 +12,4 @@
 /home/fastik/CSharpLinux/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
 /home/fastik/CSharpLinux/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
 /home/fastik/CSharpLinux/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/home/fastik/CSharpLinux/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
