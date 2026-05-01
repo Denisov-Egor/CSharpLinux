@@ -1,0 +1,14 @@
+/home/fastik/CSharpLinux/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/home/fastik/CSharpLinux/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/home/fastik/CSharpLinux/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/home/fastik/CSharpLinux/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/home/fastik/CSharpLinux/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/home/fastik/CSharpLinux/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
