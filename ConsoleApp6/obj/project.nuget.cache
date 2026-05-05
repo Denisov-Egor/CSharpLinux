@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kt3RLGCaX4=",
+  "success": true,
+  "projectFilePath": "/home/fastik/CSharpLinux/ConsoleApp6/ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "/home/fastik/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
