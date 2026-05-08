@@ -1,0 +1,15 @@
+/home/fastik/CSharpLinux/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7
+/home/fastik/CSharpLinux/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.deps.json
+/home/fastik/CSharpLinux/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.runtimeconfig.json
+/home/fastik/CSharpLinux/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.dll
+/home/fastik/CSharpLinux/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.pdb
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfoInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfo.cs
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.sourcelink.json
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.dll
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/refint/ConsoleApp7.dll
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.pdb
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.genruntimeconfig.cache
+/home/fastik/CSharpLinux/ConsoleApp7/obj/Debug/net10.0/ref/ConsoleApp7.dll
