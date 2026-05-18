@@ -1,0 +1,15 @@
+/home/fastik/CSharpLinux/ConsoleApp8/bin/Debug/net10.0/ConsoleApp8
+/home/fastik/CSharpLinux/ConsoleApp8/bin/Debug/net10.0/ConsoleApp8.deps.json
+/home/fastik/CSharpLinux/ConsoleApp8/bin/Debug/net10.0/ConsoleApp8.runtimeconfig.json
+/home/fastik/CSharpLinux/ConsoleApp8/bin/Debug/net10.0/ConsoleApp8.dll
+/home/fastik/CSharpLinux/ConsoleApp8/bin/Debug/net10.0/ConsoleApp8.pdb
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.AssemblyInfoInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.AssemblyInfo.cs
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.csproj.CoreCompileInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.sourcelink.json
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.dll
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/refint/ConsoleApp8.dll
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.pdb
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ConsoleApp8.genruntimeconfig.cache
+/home/fastik/CSharpLinux/ConsoleApp8/obj/Debug/net10.0/ref/ConsoleApp8.dll
