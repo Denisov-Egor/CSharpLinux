@@ -1,0 +1,5 @@
+/home/fastik/CSharpLinux/ConsoleApp10/obj/Debug/net10.0/ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/CSharpLinux/ConsoleApp10/obj/Debug/net10.0/ConsoleApp10.AssemblyInfoInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp10/obj/Debug/net10.0/ConsoleApp10.AssemblyInfo.cs
+/home/fastik/CSharpLinux/ConsoleApp10/obj/Debug/net10.0/ConsoleApp10.csproj.CoreCompileInputs.cache
+/home/fastik/CSharpLinux/ConsoleApp10/obj/Debug/net10.0/ConsoleApp10.sourcelink.json
