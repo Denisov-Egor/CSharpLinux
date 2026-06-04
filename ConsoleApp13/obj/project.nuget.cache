@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OSidjDGE0k=",
+  "success": true,
+  "projectFilePath": "/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "/home/fastik/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/ConsoleApp3.csproj",
+      "warningLevel": 1,
+      "filePath": "/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/ConsoleApp3.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

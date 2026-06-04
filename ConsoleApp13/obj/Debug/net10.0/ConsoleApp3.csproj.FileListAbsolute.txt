@@ -1,0 +1,56 @@
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.exe
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.deps.json
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.runtimeconfig.json
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.pdb
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfoInputs.cache
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfo.cs
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/refint/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.pdb
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.genruntimeconfig.cache
+C:/Users/cirko/Downloads/ConsoleApp3/ConsoleApp3/obj/Debug/net10.0/ref/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.exe
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.deps.json
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.runtimeconfig.json
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.pdb
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfoInputs.cache
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfo.cs
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/refint/ConsoleApp3.dll
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.pdb
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.genruntimeconfig.cache
+C:/Users/cirko/Downloads/ClientCode/ConsoleApp3/obj/Debug/net10.0/ref/ConsoleApp3.dll
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.deps.json
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.runtimeconfig.json
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.dll
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/bin/Debug/net10.0/ConsoleApp3.pdb
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfo.cs
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.dll
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/refint/ConsoleApp3.dll
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.pdb
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.genruntimeconfig.cache
+/Users/raincode/Desktop/ClientCode/ConsoleApp3/obj/Debug/net10.0/ref/ConsoleApp3.dll
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfoInputs.cache
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfo.cs
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.dll
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/refint/ConsoleApp3.dll
+G:/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.pdb
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfoInputs.cache
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.AssemblyInfo.cs
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.dll
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/refint/ConsoleApp3.dll
+/run/media/fastik/USB DISK/ClientCode/ConsoleApp3/obj/Debug/net10.0/ConsoleApp3.pdb
