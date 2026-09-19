@@ -23,4 +23,6 @@ class Program
   Console.WriteLine(string.Join(' ', arr));
   Console.WriteLine(count);
   }
+  
+  
 }
