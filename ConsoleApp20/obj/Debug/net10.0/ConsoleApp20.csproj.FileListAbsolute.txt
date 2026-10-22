@@ -1,0 +1,15 @@
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/bin/Debug/net10.0/ConsoleApp20
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/bin/Debug/net10.0/ConsoleApp20.deps.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/bin/Debug/net10.0/ConsoleApp20.runtimeconfig.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/bin/Debug/net10.0/ConsoleApp20.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/bin/Debug/net10.0/ConsoleApp20.pdb
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.AssemblyInfoInputs.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.AssemblyInfo.cs
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.csproj.CoreCompileInputs.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.sourcelink.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/refint/ConsoleApp20.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.pdb
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ConsoleApp20.genruntimeconfig.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp20/obj/Debug/net10.0/ref/ConsoleApp20.dll
