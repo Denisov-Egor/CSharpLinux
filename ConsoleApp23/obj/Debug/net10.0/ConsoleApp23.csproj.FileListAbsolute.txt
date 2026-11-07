@@ -1,0 +1,15 @@
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/bin/Debug/net10.0/ConsoleApp23
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/bin/Debug/net10.0/ConsoleApp23.deps.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/bin/Debug/net10.0/ConsoleApp23.runtimeconfig.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/bin/Debug/net10.0/ConsoleApp23.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/bin/Debug/net10.0/ConsoleApp23.pdb
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.GeneratedMSBuildEditorConfig.editorconfig
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.AssemblyInfoInputs.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.AssemblyInfo.cs
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.csproj.CoreCompileInputs.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.sourcelink.json
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/refint/ConsoleApp23.dll
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.pdb
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ConsoleApp23.genruntimeconfig.cache
+/home/fastik/Projects/CSharpLinux/ConsoleApp23/obj/Debug/net10.0/ref/ConsoleApp23.dll
